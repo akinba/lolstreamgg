@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/akinba/lolstreamgg/issues"
   },
-  "homepage": "https://github.com/akinba/lolstreamgg#readme"
+  "homepage": "https://github.com/akinba/lolstreamgg#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
 }
